@@ -1,7 +1,6 @@
-package com.tugcegulsanusta.datastructure.hackerrank.array;
+package com.tugcegulsanusta.datastructure.hackerrank.array.q2;
 
 import java.io.*;
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 import java.util.stream.Stream;
@@ -9,7 +8,7 @@ import java.util.stream.Stream;
 import static java.util.stream.Collectors.joining;
 import static java.util.stream.Collectors.toList;
 
-class Result2 {
+class Solution {
 
     /*
      * Complete the 'reverseArray' function below.
@@ -45,7 +44,7 @@ public class ArrayDs {
                 .map(Integer::parseInt)
                 .collect(toList());
 
-        List<Integer> res = Result2.reverseArray(arr);
+        List<Integer> res = Solution.reverseArray(arr);
 
         bufferedWriter.write(
                 res.stream()

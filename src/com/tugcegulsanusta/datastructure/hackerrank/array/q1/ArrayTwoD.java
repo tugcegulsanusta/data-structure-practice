@@ -1,11 +1,11 @@
-package com.tugcegulsanusta.datastructure.hackerrank.array;
+package com.tugcegulsanusta.datastructure.hackerrank.array.q1;
 
 import java.io.*;
 import java.util.*;
 import java.util.stream.*;
 import static java.util.stream.Collectors.toList;
 
-class Result1 {
+class Solution {
 
     /*
      * Complete the 'hourglassSum' function below.
@@ -54,7 +54,7 @@ public class ArrayTwoD {
             }
         });
 
-        int result = Result1.hourglassSum(arr);
+        int result = Solution.hourglassSum(arr);
 
         bufferedWriter.write(String.valueOf(result));
         bufferedWriter.newLine();

@@ -1,4 +1,4 @@
-package com.tugcegulsanusta.datastructure.hackerrank.array;
+package com.tugcegulsanusta.datastructure.hackerrank.array.q3;
 
 import java.io.*;
 import java.util.ArrayList;
