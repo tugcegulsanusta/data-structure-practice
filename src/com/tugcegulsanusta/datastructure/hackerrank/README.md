@@ -1,8 +1,7 @@
 # Arrays
+1- [2DArray.java](./array/q1/ArrayTwoD.java): https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true
 
-1- [ArrayDs.java](./array/q1/ArrayDs.java): https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true
-
-2- [2DArray.java](./array/q2/ArrayTwoD.java): https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true
+2- [ArrayDs.java](./array/q2/ArrayDs.java): https://www.hackerrank.com/challenges/arrays-ds/problem?isFullScreen=true
 
 3- [DynamicArray.java](./array/q3/DynamicArray.java): https://www.hackerrank.com/challenges/dynamic-array/problem?isFullScreen=true
 
