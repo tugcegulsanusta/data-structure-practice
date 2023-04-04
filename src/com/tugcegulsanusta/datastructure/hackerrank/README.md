@@ -7,4 +7,6 @@
 
 4- [LeftRotation.java](./array/q4/LeftRotation.java): https://www.hackerrank.com/challenges/array-left-rotation/problem?isFullScreen=true
 
-5- 
+5- [SparseArrays.java](./array/q5/SparseArrays.java): https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true
+
+6- 
