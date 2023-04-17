@@ -17,7 +17,7 @@
 
 1- [PrintTheElement.java](./linkedList/q1/PrintTheElements.java): https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem?isFullScreen=true
 
-2- [InsertNode](./linkedList/q2/InsertNode.java):https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem?isFullScreen=true
+2- [InsertNode](./linkedList/q2/InsertNode.java): https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list/problem?isFullScreen=true
 
-3- 
+3- [InsertNodeAtHead](./linkedList/q3/InsertNodeAtHead.java): https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem?isFullScreen=true
 
