@@ -21,3 +21,6 @@
 
 3- [InsertNodeAtHead](./linkedList/q3/InsertNodeAtHead.java): https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem?isFullScreen=true
 
+4- [InsertNodeAtSpesificPosition](./linkedList/q4/InsertANodeAtSpesificPosition.java): https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true
+
+5- 
