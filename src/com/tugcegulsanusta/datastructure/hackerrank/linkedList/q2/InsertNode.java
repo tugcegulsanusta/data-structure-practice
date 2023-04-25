@@ -6,7 +6,6 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class InsertNode {
-
     static class SinglyLinkedListNode {
         public int data;
         public SinglyLinkedListNode next;

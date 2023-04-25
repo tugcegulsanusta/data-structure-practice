@@ -1,4 +1,4 @@
-package com.tugcegulsanusta.datastructure.hackerrank.linkedList.q2;
+package com.tugcegulsanusta.datastructure.bbs516;
 
 public class Bbs {
     static int Recursive ( int array [], int index ,int n, int depth){
