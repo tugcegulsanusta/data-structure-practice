@@ -24,3 +24,5 @@
 4- [InsertNodeAtSpesificPosition](./linkedList/q4/InsertANodeAtSpesificPosition.java): https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem?isFullScreen=true
 
 5- [DeleteANode](./linkedList/q5/DeleteANode.java): https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem?isFullScreen=true
+
+6- [ReversePrint](./linkedList/q6/ReversePrint.java): https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem?isFullScreen=true
